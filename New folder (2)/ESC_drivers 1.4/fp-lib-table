@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "TO-220_Pack_Footprint_V10")(type "KiCad")(uri "${KIPRJMOD}/ESC_drivers 1.4-backups/TO-220_Pack_Footprint_V10.pretty")(options "")(descr ""))
-)

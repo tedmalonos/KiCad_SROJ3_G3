@@ -1,2 +1,5 @@
 # KiCad_SROJ3_G3
-KiCad project from semester 3
+
+Third semester project KiCad files. 
+
+Schematics + PCBs
